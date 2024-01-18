@@ -5,8 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Пространство Дремати</Title>
-      <h1>Добро пожаловать</h1>
-      <Counter />
+      <h1>Добро пожаловать в пространство Дремати</h1>
       <p>
         Заходите на{" "}
         <a href="https://dremati.ru" target="_blank">
